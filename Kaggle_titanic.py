@@ -101,6 +101,8 @@ submission.to_csv('titanic.csv',index=False)
 
 submission.head()
 
+#accuracy = 77.99%
+
 
 
 
